@@ -37,7 +37,7 @@ header {
 	font-size: 160%;
 	color: rgb(100,100,100);
 	text-shadow: 1px 1px 1px rgb(255,255,255);
-	border-bottom: solid 1px rgb(100,100,100);
+	/* border-bottom: solid 1px rgb(100,100,100); */
 	margin-bottom: 0.5em;
 }
 
